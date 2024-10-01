@@ -1,4 +1,4 @@
-![image](https://github.com/josearmandoo/PongFinal/assets/158987205/b3dd7006-14f8-4b32-a492-9364438105b1)
+![Uploading copy_45264B31-A5C0-4A45-A6CF-DEF181FA0E8D1-ezgif.com-video-to-gif-converter.gif…]()
 
 Pong biasanya dimainkan oleh dua pemain. Setiap pemain mengontrol paddle yang bisa bergerak secara vertikal di sisi kiri atau kanan layar. 
 Namun , jika tidak ada dua pemain (menginginkan bermain sendirian) , ada fitur 1P untuk melawan bot.
